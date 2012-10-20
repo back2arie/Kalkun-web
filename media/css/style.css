@@ -1,0 +1,209 @@
+
+body {
+	font-family: "lucida grande", Tahoma, Verdana, "BitStream vera Sans";
+	font-size: 12px;
+	margin: 20px;
+	background: #F4F3F3;
+	line-height: 18px;
+	padding: 0;
+	margin:0;
+	color: #666;
+}
+
+iframe {
+	margin: 0;
+	padding: 0;
+}
+
+h1, h3 {
+	color: #86C0D2;
+	padding: 0;
+	margin: 2px 0;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: 400;
+}
+
+a {
+	text-decoration: underline;	
+}
+
+a:hover {
+	text-decoration: none;	
+}
+
+a img {
+	border: none;
+	cursor: pointer;	
+}
+
+
+ul {
+	margin: 0.5em 0 0.3em 1.2em;
+	padding: 0;
+}
+
+li {
+	
+}
+
+#header-wrap {
+	width: 100%;
+	background: #86C0D2;
+	
+}
+
+#header {
+	height: 80px;
+	padding: 10px 15px;
+	background: #76b4c8;
+	border: 1px solid #DADADA;
+	border-top: none;
+	border-bottom: none;
+	width: 750px;
+	margin: 0 auto;	
+}
+
+#shadow {
+	background: url('../images/shadow.gif') repeat-x;
+	border: none;
+	margin: 0;
+	padding: 0;
+	height: 14px;
+}
+
+#wrap {
+	width: 780px;
+	margin: 0 auto;
+}
+
+#menu {
+	float: right;
+	width: 425px;
+	text-align: right;
+	margin-top: 30px;
+}
+
+#menu a {
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+	padding: 0 8px;
+	font-family: 'Trebuchet MS','Helvetica Neue',Arial,Sans-Serif;
+}
+
+#menu a:hover {
+	color: #fff;
+	text-decoration: underline;	
+}
+
+#content {
+	clear: both;
+	background: #fff;
+	padding: 25px 15px 0px 15px;
+	border: 1px solid #DADADA;
+	border-top: none;
+	border-bottom: none;
+}
+
+#content a {
+	color: #86C0D2;
+}
+
+#main {
+	width: 475px;
+	float: left;
+	min-height: 400px;
+}
+
+#main div#news {
+	padding: 0 10px;	
+}
+
+#sidebar {
+	width: 225px;
+	float: right;
+	padding: 10px;
+	background: #fff;
+}
+
+#about_nav ul {
+	list-style-type: none;
+}
+
+#about_nav li {
+	padding: 5px;
+	text-align: left;
+	border-bottom: 1px solid #eee;
+}
+
+#about_nav li a {
+	text-decoration: none;
+	padding: 3px;
+}
+
+#about_nav li:hover {
+	color: #fff;
+}
+
+
+#box_container {
+	text-align: center;
+	background: #FFF;
+	padding: 20px 0px 20px 0px;
+}
+
+.box {
+	padding: 20px 16px;
+	background: #86C0D2;
+	color: #FFF;
+	border: 1px solid #000;
+}
+
+#dl-button {
+	background: green;
+	border: 1px solid #333;
+	padding: 8px;
+	color: #fff;
+	text-align: center;
+	width: 200px;
+}
+
+#dl-button a {
+	color: #fff;
+	text-decoration: underline;	
+}
+
+#dl-button a:hover {
+	text-decoration: none;
+}
+
+#screen {
+	width: 500px;
+	height: 400px;	
+	margin: 0;
+	padding: 0;
+}
+
+.screenshot_container {
+	width: 100%;
+}
+
+.screenshot_container td {
+	padding: 10px;
+	
+	text-align: center;
+}
+
+.hidden {
+	display: none;	
+}
+
+#footer {
+	padding: 2px 0;
+	background: #86C0D2;
+	text-align: center;	
+}
