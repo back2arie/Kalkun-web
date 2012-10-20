@@ -28,7 +28,9 @@ $size_tar_zip = /*filesize($file_path.$file_zip);*/ '1.2MB';
 		
 		<div id="news">
 		<h3>News</h3>
-		<?php include_once('remote_feed.php'); ?>
+		<iframe src="http://managesms.net/back2arie/remote_feed.php" frameborder="0" scrolling="no" height="650" width="100%">
+			<p>Your browser does not support iframes.</p>
+		</iframe>
 		<p><a href="http://azhari.harahap.us/tag/kalkun/">See all posts</a></p>
 		</div>
 		
