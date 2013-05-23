@@ -20,7 +20,7 @@ $size_tar_zip = /*filesize($file_path.$file_zip);*/ '1.2MB';
 <div id="wrap">
 	<div id="shadow"></div>
 	<div id="content">
-		<div id="testimonial" style="padding: 3px;"><i>&#34;Kalkun is the must have tool to organize contacts, schedule/automate SMS and with event calendar (soon :-) it will be unstoppable.&#34;</i>&nbsp;(<b>Santiago Cassina</b> - <a href="http://www.mapcom.com.ar">Mapcom</a>).
+		<div id="testimonial" style="padding: 3px;"><i>&#34;I think Kalkun is great because it is easy to configure, easy to customize, easy to use, and any target hardware used.&#34;</i>&nbsp;(<b>Simon Nandor</b> - <a href="http://www.simonszoft.hu/">Software Engineer</a>).
 		</div>
 
 		<div id="main">
